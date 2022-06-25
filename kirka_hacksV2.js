@@ -1,1 +1,1 @@
-alert('project discontinued, consider playing legit lol');
+alert('have fun useing flow mod menu');
